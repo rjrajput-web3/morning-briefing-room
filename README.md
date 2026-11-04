@@ -77,7 +77,8 @@ Edit `agent/config.py`: briefing time/timezone, watchlist symbols, RSS feeds, de
 
 ## Demo
 
-📹 Demo video: *(link — recorded against a live local Switch deployment)*
+📹 Demo video: https://muse.ai/files/1293737760499625/4495144920759669/b6e1gbik69bcscr8a9n8fie3/morning-briefing-room-demo.mp4
+*(95s — recorded against a live local Switch deployment; link expires 2026-11-06)*
 
 What it shows:
 1. The agent daemon starting and opening its SSE stream.
