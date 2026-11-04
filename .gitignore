@@ -1,0 +1,8 @@
+# secrets & runtime state — never commit
+agent-state.json
+spike-state.json
+agent/memory.json
+*.log
+.env
+__pycache__/
+*.pyc
